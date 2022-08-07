@@ -1,0 +1,8 @@
+D:\lessons1Kry\lesson1\Lessons\bin\Debug\Lessons.exe.config
+D:\lessons1Kry\lesson1\Lessons\bin\Debug\Lessons.exe
+D:\lessons1Kry\lesson1\Lessons\bin\Debug\Lessons.pdb
+D:\lessons1Kry\lesson1\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+D:\lessons1Kry\lesson1\Lessons\obj\Debug\Lessons.csproj.SuggestedBindingRedirects.cache
+D:\lessons1Kry\lesson1\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+D:\lessons1Kry\lesson1\Lessons\obj\Debug\Lessons.exe
+D:\lessons1Kry\lesson1\Lessons\obj\Debug\Lessons.pdb
