@@ -1,0 +1,3 @@
+D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.AssemblyReference.cache
+D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.SuggestedBindingRedirects.cache
+D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.CoreCompileInputs.cache
