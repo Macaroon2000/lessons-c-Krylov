@@ -1,3 +1,8 @@
 D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.AssemblyReference.cache
 D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.SuggestedBindingRedirects.cache
 D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.csproj.CoreCompileInputs.cache
+D:\lessons1Kry\cringe\cringe\bin\Debug\cringe.exe.config
+D:\lessons1Kry\cringe\cringe\bin\Debug\cringe.exe
+D:\lessons1Kry\cringe\cringe\bin\Debug\cringe.pdb
+D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.exe
+D:\lessons1Kry\cringe\cringe\obj\Debug\cringe.pdb
