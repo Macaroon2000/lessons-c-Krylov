@@ -1,6 +1,6 @@
 //Крылов Роман
 
-
+encod += ((char)((int)source[i] + (int)key[i])).ToString();
 using System;
 using System.Collections.Generic;
 using System.Linq;
