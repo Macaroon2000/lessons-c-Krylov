@@ -1,11 +1,8 @@
 //Крылов Роман
 
-encod += ((char)((int)source[i] + (int)key[i])).ToString();
+
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Lesson_3
 {
@@ -15,7 +12,7 @@ namespace Lesson_3
         {
             while (true)
                 if (!int.TryParse(Console.ReadLine(), out int x))
-                    Console.WriteLine("Ошибка, введенное вами число не явлется числом.");
+                    Console.WriteLine("Ошибка, введенное значение не является числом.");
                 else return x;
         }
 
@@ -73,7 +70,7 @@ namespace Lesson_3
             } while (i != 0);
 
             Console.WriteLine("Нечетные положительные числа:");
-            foreach(int item in odd_num)
+            foreach (int item in odd_num)
             {
                 Console.WriteLine(item);
             }
