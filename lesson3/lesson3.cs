@@ -12,7 +12,7 @@ namespace Lesson_3
         {
             while (true)
                 if (!int.TryParse(Console.ReadLine(), out int x))
-                    Console.WriteLine("Ошибка, введенное значение не является числом.");
+                    Console.WriteLine("Ошибка, введенное вами число не явлется числом.");
                 else return x;
         }
 
