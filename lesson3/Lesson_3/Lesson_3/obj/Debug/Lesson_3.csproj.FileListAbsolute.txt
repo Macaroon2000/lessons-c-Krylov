@@ -1,0 +1,8 @@
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\obj\Debug\Lesson_3.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\obj\Debug\Lesson_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\obj\Debug\Lesson_3.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\bin\Debug\Lesson_3.exe.config
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\bin\Debug\Lesson_3.exe
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\bin\Debug\Lesson_3.pdb
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\obj\Debug\Lesson_3.exe
+C:\Users\HOME\Desktop\Lessons_C\Lesson_3\Lesson_3\Lesson_3\obj\Debug\Lesson_3.pdb
